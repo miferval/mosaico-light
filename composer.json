@@ -1,0 +1,10 @@
+{
+    "name": "mosaic/light",
+    "description": "classes",
+    "require": {
+        "php": ">=7.4"
+    },
+    "autoload": {
+         "classmap": ["classes/"]
+    }
+}
